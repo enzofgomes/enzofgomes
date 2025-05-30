@@ -4,7 +4,7 @@
 💻 Focused on web development, system analysis, and LLM integration  
 🛡️ Interested in cybersecurity, automation, and AI ethics  
 🌍 Trilingual: Portuguese 🇧🇷 | English 🇺🇸 | Spanish 🇪🇸  
-🎮 In my free time, I enjoy gaming, exploring tech tools, and building personal projects  
+🎮 In my free time, exploring tech tools, and gaming 
 📬 Reach me at: [Email](mailto:enzoogo07@gmail.com)
 
 ---
