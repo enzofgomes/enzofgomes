@@ -25,3 +25,6 @@
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzofgomes&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=enzofgomes&theme=tokyonight)
+
