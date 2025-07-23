@@ -2,10 +2,15 @@
 
 🎓 I'm an Information Technology student at Florida International University (GPA: 3.8)  
 💻 Focused on web development, system analysis, and LLM integration  
-🛡️ Interested in cybersecurity, automation, and AI ethics  
-🌍 Trilingual: Portuguese 🇧🇷 | English 🇺🇸 | Spanish 🇪🇸  
-🎮 In my free time, exploring tech tools, and gaming 
+🛡️ Interested in automation, full-stack development 
 📬 Reach me at: [Email](mailto:enzoogo07@gmail.com)
+
+
+🌍 Trilingual: Portuguese 🇧🇷 | English 🇺🇸 | Spanish 🇪🇸  
+🎮 In my free time, I enjoy gaming, playing guitar, and learn random facts
+
+#  🎶 What I am listening to
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem)
 
 ---
 
